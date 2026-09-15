@@ -1,0 +1,32 @@
+APPLICATION MANIFEST EXTRACTION (simulated)
+=============================================
+Exhibit ID: OPS-2026-014-B
+Package Name: com.rewardz.securebank
+App Label (shown to victim): "SecureBank Rewards+"
+Version: 1.2
+Install Source: sideloaded (APK) - NOT Google Play Store
+Install Timestamp: 2026-03-09T21:14:00+05:30
+Signing Certificate: self-signed (not a verified publisher)
+
+Requested Permissions:
+  - android.permission.READ_SMS               [DANGEROUS]
+  - android.permission.RECEIVE_SMS             [DANGEROUS]
+  - android.permission.BIND_ACCESSIBILITY_SERVICE   [DANGEROUS]
+  - android.permission.SYSTEM_ALERT_WINDOW     (overlay - used for fake login screen)
+  - android.permission.INTERNET
+  - android.permission.ACCESS_FINE_LOCATION
+
+Network Endpoints (extracted from app strings):
+  - hxxp://reward-secure-api[.]example-c2[.]net/collect
+  - hxxp://reward-secure-api[.]example-c2[.]net/otp
+
+Analyst Notes:
+This permission combination (SMS read/receive + accessibility service +
+overlay) is consistent with a credential/OTP-harvesting trojan disguised
+as a legitimate banking utility rather than a genuine rewards application.
+The app is not present on the Play Store under this package name, and its
+signing certificate is self-signed rather than issued to a verified
+publisher, both of which are inconsistent with a legitimate bank-affiliated
+app.
+
+# Endpoint and package data synthetically generated for coursework use.

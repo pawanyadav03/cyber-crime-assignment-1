@@ -1,0 +1,20 @@
+MESSAGING APP EXPORT - THREAD WITH CONTACT "Delivery-9" (simulated)
+======================================================================
+Exhibit ID: OPS-2026-014-B
+Extraction Tool: mobile forensic extraction, read-only interface mode
+
+[2026-03-11 22:04] Suspect: batch 1 ready, 6 pcs, usual encoding
+[2026-03-11 22:06] Delivery-9: ok confirm drop same spot as last time?
+[2026-03-11 22:07] Suspect: yes near branch 2, will share pin
+[2026-03-11 22:07] Suspect: [location shared]
+[2026-03-12 08:15] Delivery-9: picked up. moving to border point by evening
+[2026-03-14 19:40] Delivery-9: 3 used successfully other side, rest tomorrow
+[2026-03-15 07:02] Suspect: good. keep withdrawals under limit per card
+[2026-03-15 20:20] Suspect: batch 2 dropped, same location, 4 pcs
+[2026-03-15 20:21] Suspect: [location shared]
+[2026-03-16 10:55] Delivery-9: received. cut for this batch same as before?
+[2026-03-16 10:58] Suspect: yes 60/40 after conversion, will settle friday
+[2026-03-16 11:00] Delivery-9: understood, will update after cash-out
+
+# All names, contacts, and messages are synthetically generated for this
+# coursework simulation and do not represent a real communication thread.

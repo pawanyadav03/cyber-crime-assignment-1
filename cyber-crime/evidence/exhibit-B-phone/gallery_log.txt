@@ -1,0 +1,14 @@
+EXHIBIT B - GALLERY METADATA LOG (simulated)
+==============================================
+Case No.: OPS-2026-014
+Exhibit ID: OPS-2026-014-B
+
+Photo ID                    | Timestamp             | Description                          | GPS Tag
+------------------------------|------------------------|----------------------------------------|------------------
+IMG_2026-03-12_1.jpg         | 2026-03-12T14:05:00   | Photo of ATM branch exterior           | 28.5245,77.2066
+IMG_2026-03-15_1.jpg         | 2026-03-15T20:19:00   | Photo of drop-point location            | 28.5480,77.1955
+
+Both images are placeholder graphics generated for this simulation and are
+explicitly labelled "EVIDENCE PHOTO - SIMULATED". The embedded GPS tags
+correspond to entries in gps_coordinates.csv (GPS-002 and GPS-005),
+corroborating the reconnaissance and drop-point evidence.

@@ -1,0 +1,17 @@
+EXHIBIT A - PHOTOGRAPHIC EVIDENCE LOG (simulated)
+===================================================
+Case No.: OPS-2026-014
+Exhibit ID: OPS-2026-014-A
+
+Photo ID   | Timestamp             | Description                                  | Taken By
+-----------|------------------------|-----------------------------------------------|------------
+IMG_A001   | 2026-03-18T18:41:10   | Skimmer overlay in situ on ATM card slot       | IO-1
+IMG_A002   | 2026-03-18T18:42:35   | Overlay removed, showing capture head           | IO-1
+IMG_A003   | 2026-03-18T18:44:02   | Pinhole camera position above keypad (damaged)  | IO-1
+IMG_A004   | 2026-03-18T18:46:18   | Device serial/marking close-up                  | IO-1
+IMG_A005   | 2026-03-19T10:01:44   | Device on lab bench prior to write-blocked read | Analyst-1
+IMG_A006   | 2026-03-19T10:03:20   | Onboard flash chip, exposed for imaging         | Analyst-1
+
+All photographs are placeholder graphics generated for this simulation and
+are explicitly labelled "EVIDENCE PHOTO - SIMULATED". They do not depict a
+real device, location, or person.

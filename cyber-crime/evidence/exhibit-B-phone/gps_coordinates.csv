@@ -1,0 +1,10 @@
+point_id,timestamp,latitude,longitude,label_dummy
+GPS-001,2026-03-09T14:20:11+05:30,28.5245,77.2066,ATM Branch 1 - South Delhi
+GPS-002,2026-03-09T15:02:47+05:30,28.5412,77.1989,ATM Branch 2 - South Delhi
+GPS-003,2026-03-10T10:33:02+05:30,28.5501,77.2510,ATM Branch 3 - South Delhi
+GPS-004,2026-03-10T16:47:19+05:30,28.5620,77.2103,ATM Branch 4 - South Delhi
+GPS-005,2026-03-11T22:07:03+05:30,28.5480,77.1955,Drop Point - near Branch 2
+
+# GPS-005 timestamp (2026-03-11 22:07) matches the "[location shared]" event
+# in courier_chat_log.txt at the same timestamp, corroborating the drop point.
+# All coordinates are synthetic and do not correspond to real locations.

@@ -1,0 +1,42 @@
+{
+  "exhibit_id": "OPS-2026-014-B",
+  "source": "com.rewardz.securebank internal cache",
+  "extraction_note": "Messages intercepted by the sideloaded app's SMS-read permission, recovered from its local cache database.",
+  "messages": [
+    {
+      "id": "SMS-001",
+      "sender": "BK-HDFCBK",
+      "victim_number_masked": "+91-98XXXXXX41",
+      "timestamp": "2026-03-10T11:02:15+05:30",
+      "body": "OTP for txn of INR 24,999 is 7714. Valid 10 min. Do not share with anyone."
+    },
+    {
+      "id": "SMS-002",
+      "sender": "BK-ICICIB",
+      "victim_number_masked": "+91-98XXXXXX07",
+      "timestamp": "2026-03-11T16:40:52+05:30",
+      "body": "Your OTP is 3392 for purchase at ONLINE-MART. Do not disclose to anyone incl. bank staff."
+    },
+    {
+      "id": "SMS-003",
+      "sender": "BK-AXISBK",
+      "victim_number_masked": "+91-98XXXXXX88",
+      "timestamp": "2026-03-13T09:21:37+05:30",
+      "body": "OTP 5561 to add new payee. If not initiated by you, call helpline immediately."
+    },
+    {
+      "id": "SMS-004",
+      "sender": "BK-SBIINB",
+      "victim_number_masked": "+91-98XXXXXX23",
+      "timestamp": "2026-03-14T20:05:44+05:30",
+      "body": "Use OTP 9048 to complete your fund transfer of INR 40,000. Valid for 5 minutes."
+    },
+    {
+      "id": "SMS-005",
+      "sender": "BK-HDFCBK",
+      "victim_number_masked": "+91-98XXXXXX41",
+      "timestamp": "2026-03-16T13:12:09+05:30",
+      "body": "OTP for txn of INR 15,500 is 2286. Valid 10 min. Do not share with anyone."
+    }
+  ]
+}

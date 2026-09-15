@@ -1,0 +1,35 @@
+SKIMMER DEVICE CONFIGURATION EXPORT (simulated forensic extraction)
+=====================================================================
+Exhibit ID: OPS-2026-014-A
+Extraction Tool: hardware write-blocker + flash reader (simulated)
+Extraction Date: 19-Mar-2026 10:05 IST
+
+[Firmware]
+FirmwareID       = SWIPEGHOST_FW_v3.4
+BuildDate        = 2026-01-08
+Checksum(CRC32)  = 0x8F2A11C0
+
+[Connectivity]
+BluetoothModule  = enabled
+BT_MAC_Address   = D4:3C:11:8A:00:5F
+PairedDeviceName = "OP7-User"
+LastPairTime     = 2026-03-15T20:11:03+05:30
+GSM_Module       = disabled (not populated on this unit)
+
+[Storage]
+OnboardFlash     = 64MB NAND
+RecordsStored    = 6
+FirstRecordTime  = 2026-03-12T10:14:22+05:30
+LastRecordTime   = 2026-03-15T20:03:09+05:30
+
+[Camera Module]
+Resolution       = 640x480
+CapturePath      = /var/log/pin_capture/ (not recovered - camera module damaged on seizure)
+
+[Installation Notes - recovered from device event log]
+2026-03-12 09:40  Device powered on
+2026-03-12 09:52  Overlay attached (event flag: INSTALL)
+2026-03-15 20:15  Bluetooth offload session (6 records transferred)
+2026-03-18 18:40  Device seized - power-down event logged
+
+# Simulated data for coursework use only.
